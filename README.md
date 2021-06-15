@@ -5,5 +5,5 @@ Plot [WKT](https://en.wikipedia.org/wiki/Well-known_text) shapes on maps.
     
 See it working https://xlxxcc.github.io/xlxxcc/
 
-![playground-demo](wkt-playgound.png)
+![wkt-playground-demo](wkt-playgound.png)
 
